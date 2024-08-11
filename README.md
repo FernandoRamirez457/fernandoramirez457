@@ -1,10 +1,9 @@
 ## Bem-vindo(a) ao Meu Perfil 🐧
 
  <div>
-   <a href="https://github.com/fernandoramirez457">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoramirez457&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoramirez457&layout=compact&langs_count=6&theme=ambient_gradient"/>
-   
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <br>
